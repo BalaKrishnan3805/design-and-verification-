@@ -44,7 +44,10 @@ This repository contains a collection of RTL design modules and their correspond
 
 🧑‍💻 Author
 
- Your Name – @balakrishnanp3805@gmail.com
+ Name – @Bala Krishnan P
+ 
+ Mail - balakrishnanp3805@gmail.com
+  
  
  Feel free to reach out for collaboration or questions!
 
